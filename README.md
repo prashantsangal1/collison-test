@@ -1,2 +1,2 @@
-# collison-test
-Algorithm to calculate the distortion of a car upon hitting a wall with random speed and random mass.
+# p5.play-boilerplate
+Boiler plate for p5.play
